@@ -21,3 +21,8 @@ To use JTool, follow these steps:
    - Specify the project directory, output directory, and context directory.
    - Set any additional flags for the scaffold operation.
    - Click the "Scaffold" button to execute the operation.
+   
+## Useful Links
+
+- [Scaffolding (Reverse Engineering)](https://learn.microsoft.com/en-us/ef/core/managing-schemas/scaffolding/?tabs=dotnet-core-cli)
+- [Entity Framework Core tools reference - Package Manager Console in Visual Studio](https://learn.microsoft.com/en-us/ef/core/cli/powershell)
