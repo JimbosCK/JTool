@@ -1,0 +1,11 @@
+{
+  "ConString": "YourConnectionString",
+  "ProjectDirectory": "YourProjectDirectory", 
+  "ScaffoldFlags": {
+    "NoOnConfiguring": false,
+    "Force": false,
+    "DataAnnotations": false,
+    "OutputDir": "",
+    "ContextDir": ""
+  }
+}
