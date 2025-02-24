@@ -10,9 +10,9 @@ JTool is a simple C# Windows Forms application designed to assist with various d
 
 To use JTool, follow these steps:
 
-1. Clone the repository to your local machine.
-2. Build the solution using Visual Studio or another C# development environment.
-3. Run the executable file (`.exe`) generated in the `bin` directory.
+1. Download the latest released version (JTool zip).
+2. Extract the files.
+3. Run the executable file (`.exe`).
 
 ## Usage
 
