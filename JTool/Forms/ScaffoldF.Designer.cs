@@ -224,8 +224,11 @@
             Controls.Add(btnBrowseProjDir);
             Controls.Add(textProjectDirectory);
             Controls.Add(textConnectionString);
+            FormBorderStyle = FormBorderStyle.Fixed3D;
+            MaximizeBox = false;
             Name = "ScaffoldF";
-            Text = "Scaffold Form";
+            ShowIcon = false;
+            Text = "Scaffold";
             ResumeLayout(false);
             PerformLayout();
         }
